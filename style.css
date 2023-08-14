@@ -1,0 +1,17 @@
+#heading
+{
+    font-size: 40px;
+    color: darkblue;
+    box-shadow: 10px;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+#note
+{
+    font-size: 20px;
+    color: darkblue;
+    box-shadow: 5px;
+    padding: 10px;
+    border-radius: 50px;
+}
